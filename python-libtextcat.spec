@@ -8,7 +8,7 @@ Summary:	Python bindings for libTextCat
 Source0:	http://pypi.python.org/packages/source/p/%{oname}/%{oname}-%{version}.tar.xz
 License:	BSD
 Group:		Development/Python
-Url:		http://launchpad.net/pylibtextcat
+Url:		https://launchpad.net/pylibtextcat
 BuildRequires:	python-devel python-setuptools textcat-devel
 
 %description
